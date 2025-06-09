@@ -21,7 +21,7 @@ pkg install git
 rm -rf Termux-Quiz
 git clone --depth=1 https://github.com/JOY-XII/Termux-Quiz.git
 cd Termux-Quiz
-python T-Quiz.py
+python Termux-quiz.py
 ```
 ## CONTACT 
 Mail me!
